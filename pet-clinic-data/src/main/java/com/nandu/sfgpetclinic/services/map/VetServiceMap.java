@@ -1,11 +1,11 @@
 package com.nandu.sfgpetclinic.services.map;
 
 import com.nandu.sfgpetclinic.model.Vet;
-import com.nandu.sfgpetclinic.services.CrudService;
+import com.nandu.sfgpetclinic.services.VetService;
 
 import java.util.Set;
 
-public class VetServiceMap extends AbstractMapService<Vet, Long> implements CrudService<Vet, Long> {
+public class VetServiceMap extends AbstractMapService<Vet, Long> implements VetService {
     @Override
     public Set<Vet> findAll() {
         return super.findAll();
