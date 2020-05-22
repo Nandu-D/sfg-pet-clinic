@@ -1,4 +1,4 @@
-package com.nandu.sfgpetclinic.service;
+package com.nandu.sfgpetclinic.services;
 
 import java.util.Set;
 

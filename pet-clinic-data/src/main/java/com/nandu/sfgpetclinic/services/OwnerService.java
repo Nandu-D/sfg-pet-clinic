@@ -1,4 +1,4 @@
-package com.nandu.sfgpetclinic.service;
+package com.nandu.sfgpetclinic.services;
 
 import com.nandu.sfgpetclinic.model.Owner;
 
